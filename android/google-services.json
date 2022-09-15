@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054332584726",
+    "project_id": "track-my-bus-a2425",
+    "storage_bucket": "track-my-bus-a2425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054332584726:android:4dde97bec184332a468637",
+        "android_client_info": {
+          "package_name": "com.example.trackmybusstoptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054332584726-ejg67bt2l3b26pqofk4sigbfsp05d25l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWL274mGKf6D3Lipq-fo3J5noh9inwSr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054332584726-ejg67bt2l3b26pqofk4sigbfsp05d25l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

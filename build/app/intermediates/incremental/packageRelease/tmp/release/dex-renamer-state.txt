@@ -1,0 +1,4 @@
+#Thu Sep 15 01:40:59 IST 2022
+base.0=C\:\\Users\\jchik\\OneDrive\\Desktop\\trackmybusstoptracker\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1054332584726-ejg67bt2l3b26pqofk4sigbfsp05d25l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054332584726</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWL274mGKf6D3Lipq-fo3J5noh9inwSr8</string>
+    <string name="google_app_id" translatable="false">1:1054332584726:android:4dde97bec184332a468637</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWL274mGKf6D3Lipq-fo3J5noh9inwSr8</string>
+    <string name="google_storage_bucket" translatable="false">track-my-bus-a2425.appspot.com</string>
+    <string name="project_id" translatable="false">track-my-bus-a2425</string>
+</resources>
